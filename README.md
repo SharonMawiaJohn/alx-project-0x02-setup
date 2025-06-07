@@ -1,3 +1,5 @@
+Next.js Project Setup and Basics
+
 # alx-project-0x02-setup
 # Next.js Project Setup and Basics
 
@@ -14,3 +16,13 @@ The goal of this repository is to demonstrate how to properly scaffold a Next.js
 - [Next.js](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
+
+# ALX Project 2
+
+This is the base project setup using Next.js, TypeScript, Tailwind CSS, and ESLint. It includes the initial folder structure, a sample header component, and a welcome message.
+
+To run the app:
+
+```bash
+npm install
+npm run dev -- -p 3000
